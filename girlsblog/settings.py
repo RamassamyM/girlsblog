@@ -25,7 +25,7 @@ SECRET_KEY = 'gh4m84+zch0fl2^7a_)-_x3y)-x!=_wtu-!(jrmh3646%w184u'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1',]
+ALLOWED_HOSTS = ['127.0.0.1','gluglu.pythonanywhere.com',]
 
 
 # Application definition
