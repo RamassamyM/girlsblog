@@ -130,6 +130,3 @@ STATIC_ROOT = os.path.join(BASE_DIR, 'static')
 
 
 LOGIN_REDIRECT_URL = '/'
-
-import django_heroku
-django_heroku.settings(local())
